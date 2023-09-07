@@ -6,6 +6,7 @@ Some of my potential research interests includes:
 - Behavioural Economics
 - Social Network
 - Financial Economics
+- Heterodox economics thinking
 
 Besides academia, My interests include philosophy, acoustic guitar, rowing, football, badminton, photography, chess, humanity and learning new languages, etc.
 
