@@ -16,10 +16,10 @@ Some of my potential research interests includes:
 Besides academia, My interests include Acoustic Guitar, Electronic Bass, Marathon, Rowing, Photography, Chess, Aesthetics, Psychoanalysis, History and etc.
 
 My favourite Models:
--No Trade Theorem
--Naïve Learning in Social Networks
--Networked Market
--Bayesian Persuasion
--Combinatorial Auctions
+- No Trade Theorem
+- Naïve Learning in Social Networks
+- Networked Market
+- Bayesian Persuasion
+- Combinatorial Auctions
 
 You can contact me with email: [xb230@cam.ac.uk](mailto:xb230@cam.ac.uk)!
